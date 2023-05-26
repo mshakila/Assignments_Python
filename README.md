@@ -1,1 +1,1 @@
-# iNeuron_Assignments
+These files contain answers to python related queries. 
